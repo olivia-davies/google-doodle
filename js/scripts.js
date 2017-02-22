@@ -12,4 +12,4 @@ console.log(numRand);
 $('body').addClass('bg' + numRand);
 
 // Display Randomized Message 
-var tmp = $('img').attr('src', eval('img' + numRand));
+var tmp = $('#random').attr('src', eval('img' + numRand));

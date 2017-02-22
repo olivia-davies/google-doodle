@@ -2,6 +2,23 @@
 
 @import 'google-homepage' ;
 
+
+//First Frame
+
+img {
+    transform: scale(.5) rotate(0);
+    transition: transform 1s;
+    opacity: .5;
+    width: 50%;
+}
+
+//Last Frame
+img:hover {
+    opacity: 1;
+//    transition: opacity 1s;
+    transform: scale(2) rotate(180deg);
+}
+
 body {
-    background: purple;
+    background: lightgreen;
 }
