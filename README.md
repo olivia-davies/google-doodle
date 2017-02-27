@@ -2,7 +2,7 @@
 
 ## Brainstorm Ideas
 
-1. Songkran
+### Songkran
  * Thai New Year's festival. 
  * The Thai New Year's Day is 13 April every year, but the holiday period includes 14–15 April as well.
  * Before the festival - blessings are given and obtained by pouring water over the hands of elders and monks
@@ -18,8 +18,13 @@ Your content goes here.
   
 ## Research for Ideas
   
-* Links, Movies, Presentations, TEDtalks
    
 * Songkran
 - http://songkranday.com
 - http://www.phuket.com/festival/songkran.htm
+
+
+TO DO:
+1. update favicon to match design?
+2. work on moodboard and style tile
+3. update visual-design.psd
