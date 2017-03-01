@@ -29,6 +29,6 @@ TO DO:
 2. work on moodboard and style tile
 3. update visual-design.psd
 4. make SVG and optimize them
-5. Make design responsive
+5. Add jQuery Lightbox
 6. Finish before March 3rd - GET ON IT.
 7. Make sure that you see the checklist!
