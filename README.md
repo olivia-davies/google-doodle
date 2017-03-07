@@ -19,3 +19,4 @@ TO DO:
 2. work on moodboard and style tile
 3. update visual-design.psd
 4. make SVG and optimize them
+5. modify buttons and add rotating backgrounds
