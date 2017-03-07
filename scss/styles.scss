@@ -1,14 +1,13 @@
 // Grand Central Station
 
+@import 'css/normalize.css';
 @import 'google-homepage' ;
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 
 
+
 //Color Palette
-$orange: #eb7342;
-$yellow: #fed766;
-$red: #f22433;
-$white-ish: #fcfbf8;
+
 
 //First Frame
 
@@ -34,15 +33,15 @@ input {
     height: 1em;
 }
 
-button {
-    margin-right: 30px;
-    background: $white-ish;
-}
 
 h1 {
     font-family: 'Dosis';
     font-size: 8em;
     align-content: center;
     text-transform: uppercase;
-    color: $yellow; 
+}
+
+svg{
+    height: 100px;
+    display: block;
 }
