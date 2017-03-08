@@ -5,8 +5,6 @@
 //Color Palette
 $pusheen-pink: #fbf0e4;
 $pusheen-outline: #523011;
-
-
 body {
     background: $pusheen-pink;
 }
@@ -19,7 +17,6 @@ input {
     border-radius: 1em;
 }
 
-
 .st0 {
     fill: none;
     stroke: $pusheen-outline;
@@ -28,7 +25,7 @@ input {
 }
 
 button {
-//    border: 1px solid $pusheen-outline;
+    //    border: 1px solid $pusheen-outline;
     color: $pusheen-outline;
     background: #fff;
     font-family: "Dosis";
@@ -38,11 +35,6 @@ button {
 img {
     position: absolute;
     width: 25%;
-    bottom: 185px;
+    bottom: 155px;
     left: 130px;
-    
-    
-    
-    
-    
 }

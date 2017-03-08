@@ -2,7 +2,10 @@
 
 //DRAW SVG
 
-var mySVG = $('svg').drawsvg();
+var mySVG = $('svg').drawsvg({
+    duration: 5000,
+
+});
 
 mySVG.drawsvg('animate');
 
