@@ -1,30 +1,46 @@
-    // Grand Central Station
-    @import 'normalize';
-    @import 'google-homepage';
-    @import url('https://fonts.googleapis.com/css?family=Dosis');
-    //Color Palette
-    $pusheen-pink: #fbf0e4;
-    $pusheen-outline: #523011;
-    
+// Grand Central Station
+@import 'normalize';
+@import 'google-homepage';
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+//Color Palette
+$pusheen-pink: #fbf0e4;
+$pusheen-outline: #523011;
 
-    body {
-        background: $pusheen-pink;
-    }
-    
-    input {
-        height: 2em;
-        width: 600px;
-        margin: auto;
-    }
-    
-    
-    .st0 {
-        fill: none;
-        stroke: $pusheen-outline;
-        stroke-width: 7px;
-        stroke-miterlimit: 10;
-    }
+
+body {
+    background: $pusheen-pink;
+}
+
+input {
+    height: 2em;
+    border: none;
+    width: 55%;
+    background-color: #fff;
+    border-radius: 1em;
+}
+
+
+.st0 {
+    fill: none;
+    stroke: $pusheen-outline;
+    stroke-width: 7px;
+    stroke-miterlimit: 10;
+}
 
 button {
+//    border: 1px solid $pusheen-outline;
+    color: $pusheen-outline;
+    background: #fff;
+    font-family: "Dosis";
+    border-radius: 1em;
+}
+
+img {
+    position: absolute;
+    width: 25%;
+    bottom: 148px;
+    left: 100px;
+    
+    
     
 }
