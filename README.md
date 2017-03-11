@@ -4,7 +4,7 @@
 ## Content Doodle
 
 Pusheen Cat! 
-![Google Doodle](https://olivia-davies.github.io/google-doodle/)
+![Google Doodle](http://i63.tinypic.com/2znptg2.png)
 
  
 ## Research for Ideas
@@ -25,9 +25,9 @@ Pusheen was created by two people name Claire Belton and Andrew Duff in 2010 for
 
 
 She went from this:
-[She went from this:](https://cdn.unicornbooty.com/wp-content/uploads/2016/02/19123336/pusheenthingssmall.jpg/)
+![She went from this:](https://cdn.unicornbooty.com/wp-content/uploads/2016/02/19123336/pusheenthingssmall.jpg/)
 
-[To this:](https://19807-presscdn-pagely.netdna-ssl.com/wp-content/uploads/3c8/bd/d47d1133c75d31e7b1051903e3348f09.jpg)
+![To this:](https://19807-presscdn-pagely.netdna-ssl.com/wp-content/uploads/3c8/bd/d47d1133c75d31e7b1051903e3348f09.jpg)
 
 
 ### Le Web Citations
