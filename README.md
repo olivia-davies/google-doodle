@@ -24,8 +24,7 @@ Pusheen was created by two people name Claire Belton and Andrew Duff in 2010 for
 * Pusheen is based on a real-life cat that Belton grew up with. While the strip implies that Pusheen still lives with the cartoonists, in reality neither Carmen nor Pusheen stayed ever with them. Carmen lived with Duff’s parents and Pusheen lived with Belton’s parents alongside three other cats.
 
 
-She went from this:
-![She went from this:](https://cdn.unicornbooty.com/wp-content/uploads/2016/02/19123336/pusheenthingssmall.jpg/)
+![She went from this:](https://cdn.unicornbooty.com/wp-content/uploads/2016/02/19123336/pusheenthingssmall.jpg)
 
 ![To this:](https://19807-presscdn-pagely.netdna-ssl.com/wp-content/uploads/3c8/bd/d47d1133c75d31e7b1051903e3348f09.jpg)
 
